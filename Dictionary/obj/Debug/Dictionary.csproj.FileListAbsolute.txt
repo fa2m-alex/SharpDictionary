@@ -1,0 +1,12 @@
+c:\users\alexf\documents\visual studio 2015\Projects\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+c:\users\alexf\documents\visual studio 2015\Projects\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+c:\users\alexf\documents\visual studio 2015\Projects\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+c:\users\alexf\documents\visual studio 2015\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.csprojResolveAssemblyReference.cache
+c:\users\alexf\documents\visual studio 2015\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+c:\users\alexf\documents\visual studio 2015\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.csprojResolveAssemblyReference.cache
